@@ -5,7 +5,7 @@ hidden: true
 title: Student Name
 header:
   overlay_color: "#4d2e00"
-  overlay_image: assets/images/cp_banner_v1.0.png
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/British_Museum_Reading_Room%2C_reading_desk_F1.jpg/640px-
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join Project VIKRAM : Change the world"
       url: "https://projectvikram.github.io/join-us//"
@@ -18,21 +18,21 @@ excerpt:
 feature_row:
   - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sphere_wireframe_10deg_4r.svg/240px-Sphere_wireframe_10deg_4r.svg.png
     alt: "Models"
-    title: "Models"
+    title: "Pharmaceutical Epidemiology"
     excerpt: "Graphics models portfolio <br><br><br>"
     url: "/models/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Prof._Stampfer%27s_Stroboscopische_Scheibe_No._X.gif/240px-Prof._Stampfer%27s_Stroboscopische_Scheibe_No._X.gif
     alt: "Animations"
-    title: "Animations"
+    title: "Healthcare ML & Analytics"
     excerpt: "Computer animations and CGI portfolio <br><br><br>"
     url: "/animations/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DLP_Home_Theatre_Projector.jpg/320px-DLP_Home_Theatre_Projector.jpg
     alt: "Creative work"
-    title: "Creative Pieces"
+    title: "Clinical Tools - Live Demo"
     excerpt: "Creative pieces from my portfolio  <br><br><br>"
     url: "/creative/"
     btn_class: "btn--primary"
